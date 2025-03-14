@@ -12,7 +12,7 @@ If you want to test the pre-built container image (`evo2.sif`), simply run the f
 
 ```bash
 # Clone this repository
-git clone git@github.com:jgi-genomeocean/evo2-on-lrc.git
+git clone https://github.com/fengchenLBL/evo2-on-lrc.git
 cd evo2-on-lrc
 
 # Clone the Evo2 repository
